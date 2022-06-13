@@ -16,10 +16,6 @@ const CMD_SORT_ASC: &str = "sort-asc";
 const CMD_SORT_DESC: &str = "sort-desc";
 const CMD_UNIQ: &str = "uniq";
 
-/*enum sort_flag {
-    asc(String),
-    desc(String),
-}*/
 
 fn main() {
     let args = vec![
